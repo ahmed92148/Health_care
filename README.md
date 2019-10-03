@@ -1,2 +1,2 @@
-# Health_care
-Health_Care
+# Primary Machine learning Project
+Image classfication
